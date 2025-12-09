@@ -4,6 +4,7 @@ using UnityEngine.UIElements;
 
 public class Enemy : MonoBehaviour
 {
+    public float canMove = 15;
     private Transform target;
     public float speed = 5;
     Rigidbody2D rb;
@@ -22,19 +23,29 @@ public class Enemy : MonoBehaviour
         {
             left = true;
         }
+        Destroy(gameObject, 17f);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (right == true) 
+        if (canMove > 0)
         {
-            rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
-        }
+            if (right == true)
+            {
+                rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
+            }
 
-        if (left == true) 
-        {
-            rb.linearVelocity = new Vector2(speed, rb.linearVelocity.y);
+            if (left == true)
+            {
+                rb.linearVelocity = new Vector2(speed, rb.linearVelocity.y);
+            }
+            canMove -= Time.deltaTime;
         }
+        else
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        }
+       
     }
 }
