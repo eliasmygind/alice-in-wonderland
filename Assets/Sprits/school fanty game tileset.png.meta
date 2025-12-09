@@ -1,44 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 589910b6b24b5324aace54e5d52f6853
-=======
-guid: 45c1b81762b9a664c9c50023aac3b73e
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 1715966838521102692
-    second: school fanty game tileset_0
-  - first:
-      213: -6795449382953405978
-    second: school fanty game tileset_1
-  - first:
-      213: -1000922222219871871
-    second: school fanty game tileset_2
-  - first:
-      213: 8809788213073810547
-    second: school fanty game tileset_3
-  - first:
-      213: 1738461620797501192
-    second: school fanty game tileset_4
-  - first:
-      213: 8474249888674500936
-    second: school fanty game tileset_5
-  - first:
-      213: 3327164414918797750
-    second: school fanty game tileset_6
-  - first:
-      213: 2928112373091131215
-    second: school fanty game tileset_7
-  - first:
-      213: -8820096372060482491
-    second: school fanty game tileset_8
-  - first:
-      213: -4320605432130972577
-    second: school fanty game tileset_9
-  - first:
-      213: -8588566521771651816
-    second: school fanty game tileset_10
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -71,16 +34,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< HEAD
     filterMode: 0
-=======
-    filterMode: 1
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -89,11 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   spritePixelsToUnits: 16
-=======
-  spritePixelsToUnits: 100
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,20 +63,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 2
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-<<<<<<< HEAD
     textureCompression: 0
-=======
-    textureCompression: 1
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,7 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -149,29 +100,20 @@ TextureImporter:
       name: school fanty game tileset_0
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 16
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 15
-        y: 0
-        width: 119
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46186608fb650d710800000000000000
-      internalID: 1715966838521102692
+      spriteID: 12805201c0f4f6a40ba9de8f2fadaa60
+      internalID: 1405494923
       vertices: []
       indices: 
       edges: []
@@ -180,29 +122,20 @@ TextureImporter:
       name: school fanty game tileset_1
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 32
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 133
-        y: 0
-        width: 124
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e13aef3ac6b1b1a0800000000000000
-      internalID: -6795449382953405978
+      spriteID: 5dfdaa69a6b12fc469bc2d04bd757516
+      internalID: -1144507250
       vertices: []
       indices: 
       edges: []
@@ -211,29 +144,20 @@ TextureImporter:
       name: school fanty game tileset_2
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 48
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 260
-        y: 0
-        width: 24
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1893ac0ca820c12f0800000000000000
-      internalID: -1000922222219871871
+      spriteID: 3b637e8953f135e4b881bcab2e52665d
+      internalID: -221007713
       vertices: []
       indices: 
       edges: []
@@ -242,29 +166,20 @@ TextureImporter:
       name: school fanty game tileset_3
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 64
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 295
-        y: 0
-        width: 18
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 37410ba14b7a24a70800000000000000
-      internalID: 8809788213073810547
+      spriteID: 0eece6dc3f7edfb4596848f756a42781
+      internalID: -1091938145
       vertices: []
       indices: 
       edges: []
@@ -273,29 +188,20 @@ TextureImporter:
       name: school fanty game tileset_4
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 80
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 320
-        y: 0
-        width: 61
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 80fe84322a1402810800000000000000
-      internalID: 1738461620797501192
+      spriteID: 4b04814536a2a65439717c26767c7b9f
+      internalID: 811607439
       vertices: []
       indices: 
       edges: []
@@ -304,29 +210,20 @@ TextureImporter:
       name: school fanty game tileset_5
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 96
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 380
-        y: 0
-        width: 86
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 841565010659a9570800000000000000
-      internalID: 8474249888674500936
+      spriteID: e6d59eefc56e5a04e9ae9c1c7298597d
+      internalID: 1420995595
       vertices: []
       indices: 
       edges: []
@@ -335,29 +232,20 @@ TextureImporter:
       name: school fanty game tileset_6
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 112
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 465
-        y: 0
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6b92e8448667c2e20800000000000000
-      internalID: 3327164414918797750
+      spriteID: 4f656f3e1d134a84c854810a87b99a50
+      internalID: 956431841
       vertices: []
       indices: 
       edges: []
@@ -366,29 +254,20 @@ TextureImporter:
       name: school fanty game tileset_7
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 128
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 481
-        y: 0
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f4fd58480beb2a820800000000000000
-      internalID: 2928112373091131215
+      spriteID: b9e32ee69e054bd4aa85a2612866c144
+      internalID: 956003078
       vertices: []
       indices: 
       edges: []
@@ -397,29 +276,20 @@ TextureImporter:
       name: school fanty game tileset_8
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 144
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 503
-        y: 6
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5449f9a9419b89580800000000000000
-      internalID: -8820096372060482491
+      spriteID: 608b4abac4f87d14280fb51c68f85656
+      internalID: 125554494
       vertices: []
       indices: 
       edges: []
@@ -428,29 +298,20 @@ TextureImporter:
       name: school fanty game tileset_9
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 160
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 543
-        y: 0
-        width: 66
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f54d53340402a04c0800000000000000
-      internalID: -4320605432130972577
+      spriteID: cb47ae40b67581c44918d26804b7f173
+      internalID: -1768529629
       vertices: []
       indices: 
       edges: []
@@ -459,34 +320,24 @@ TextureImporter:
       name: school fanty game tileset_10
       rect:
         serializedVersion: 2
-<<<<<<< HEAD
         x: 176
         y: 0
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-=======
-        x: 611
-        y: 9
-        width: 26
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 81d0dfba0484fc880800000000000000
-      internalID: -8588566521771651816
+      spriteID: 3434cb91906894e46bbb952b94d34892
+      internalID: -709980311
       vertices: []
       indices: 
       edges: []
       weights: []
-<<<<<<< HEAD
     - serializedVersion: 2
       name: school fanty game tileset_11
       rect:
@@ -503,8 +354,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6d8ab4c9c1e434438fff643ca8b5ee5
-      internalID: 64101285
+      spriteID: 8d6d1108d619b174eb87efe94b803d35
+      internalID: 1848061911
       vertices: []
       indices: 
       edges: []
@@ -525,8 +376,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9303277c9510c9b4d8a8300d4fe30c26
-      internalID: 1223933689
+      spriteID: 94f80cb76ab573f4eb3e208c83228c27
+      internalID: -974409715
       vertices: []
       indices: 
       edges: []
@@ -547,8 +398,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5753857a9abd4e84b8741b9b08ed9cb0
-      internalID: 1642400983
+      spriteID: 37821d814a733a544aa0e0f036a4a2a8
+      internalID: -1738593484
       vertices: []
       indices: 
       edges: []
@@ -569,8 +420,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d11719435cc725d49a7370f438a292a1
-      internalID: -2137543070
+      spriteID: bee0ed280d82216409bfb5703d37005d
+      internalID: -1364792812
       vertices: []
       indices: 
       edges: []
@@ -591,8 +442,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5695f83a73821348b735e3980e4a2dd
-      internalID: -1368402995
+      spriteID: 2e5b0d280a04a764d97d78f1a83d782e
+      internalID: 278406217
       vertices: []
       indices: 
       edges: []
@@ -613,8 +464,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1f2d0f61d0a1094e96678d5631e6995
-      internalID: -1963414675
+      spriteID: 9474771097377af47ac73eb3c57bba98
+      internalID: -480512541
       vertices: []
       indices: 
       edges: []
@@ -635,8 +486,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8efe5dc55703ff74282b8d57413da81d
-      internalID: 1251672651
+      spriteID: 3015fe96797f30c46874c8099ebac2ae
+      internalID: -57111657
       vertices: []
       indices: 
       edges: []
@@ -657,8 +508,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5a6bd65ed9dc90429853c99a0eac467
-      internalID: -1688928395
+      spriteID: 5c1ea0d26bebc9d4096f11c3c4448c5d
+      internalID: -61522221
       vertices: []
       indices: 
       edges: []
@@ -679,8 +530,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bca972a2193fccf4e9910c21b4099d8d
-      internalID: -1533996749
+      spriteID: 2deba5f10d3724049afc42e2b3bd2111
+      internalID: -1300842140
       vertices: []
       indices: 
       edges: []
@@ -701,8 +552,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9567e426fdb0455499eaefe7155baa67
-      internalID: 1211889630
+      spriteID: b2b4255de03efa74b98ddcf396856cdc
+      internalID: -1938330921
       vertices: []
       indices: 
       edges: []
@@ -723,8 +574,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95d61f192f03cbe4ebd92c8aef39241a
-      internalID: 2075927631
+      spriteID: 2d19b88d3fb93dc49a58d87e035a3651
+      internalID: -1739830900
       vertices: []
       indices: 
       edges: []
@@ -745,8 +596,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c21766073eb9b4da2008ccea185e29
-      internalID: 741881280
+      spriteID: 8dbf25028c657f64390c423b03393304
+      internalID: -1993251273
       vertices: []
       indices: 
       edges: []
@@ -767,8 +618,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1f0d62b19d791842a4b99c21bfb69a8
-      internalID: -1387172978
+      spriteID: 24e7a96e9faf86649aa6b7e52a2b7143
+      internalID: -969504716
       vertices: []
       indices: 
       edges: []
@@ -789,8 +640,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8384307cda16c48428349fc158bc5fb7
-      internalID: 775375954
+      spriteID: bc094633d6d76fb43912e25b78c5a47f
+      internalID: -198451822
       vertices: []
       indices: 
       edges: []
@@ -811,8 +662,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3fc189b317a28040af9d3700f72219f
-      internalID: -1501912720
+      spriteID: 41cc55bcee6c8af4d819c2b6d68604c5
+      internalID: -1920205234
       vertices: []
       indices: 
       edges: []
@@ -833,8 +684,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed9818a29014eae4e920772d41ad6c6d
-      internalID: -1283888403
+      spriteID: dffc498b314964d408dfe91cc5ef211a
+      internalID: -721256442
       vertices: []
       indices: 
       edges: []
@@ -855,8 +706,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f767dd5bf6b21141aab9b0153f3aa1c
-      internalID: -657265189
+      spriteID: 6b22201721c0ac54cab9429a1f4c03fa
+      internalID: -770236767
       vertices: []
       indices: 
       edges: []
@@ -877,8 +728,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 097832dca1243774a8bee54a0058cbcc
-      internalID: -1773381208
+      spriteID: 7dbab64d5d25de14382cdf68b3a00952
+      internalID: -1640770214
       vertices: []
       indices: 
       edges: []
@@ -899,8 +750,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65c3325ca53c2da4e8f418936779d7b3
-      internalID: 670008324
+      spriteID: 862016ceabbf94f47a7389c30f9d4666
+      internalID: 553662073
       vertices: []
       indices: 
       edges: []
@@ -921,8 +772,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bd1097746249f84593592f77dcf06e2
-      internalID: -380823353
+      spriteID: 3bbf521f465834640a7d071c3b809d47
+      internalID: -161146312
       vertices: []
       indices: 
       edges: []
@@ -943,8 +794,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 393240aa26af2404f996f72c6d84ada3
-      internalID: 2146446048
+      spriteID: 176adaafdea603448b60626ac2a441a2
+      internalID: 555042596
       vertices: []
       indices: 
       edges: []
@@ -965,8 +816,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c5469a60dd2f7a439daf656a18692e6
-      internalID: -1749462453
+      spriteID: bf459da28a1c5124fa617962b03be60e
+      internalID: -1658195009
       vertices: []
       indices: 
       edges: []
@@ -987,8 +838,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1920715f833fbbf4e81b28f4d3e51ac0
-      internalID: -360367522
+      spriteID: 91d95b0e1b83ccc469fd0db399be7de6
+      internalID: -673642925
       vertices: []
       indices: 
       edges: []
@@ -1009,8 +860,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ad3ae6ee8fa1f64a87559aa38c16894
-      internalID: -144889924
+      spriteID: 57e916111db6c214fa8e59e8f816d4cb
+      internalID: 1344068684
       vertices: []
       indices: 
       edges: []
@@ -1031,8 +882,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f4ec57feee4d754e96e9ef61be6b9df
-      internalID: 827536514
+      spriteID: 5a61ebacfde53e042a5fe4d7733ff515
+      internalID: -2074663549
       vertices: []
       indices: 
       edges: []
@@ -1053,8 +904,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58cf2e85e3318e44d87e915b7cd61509
-      internalID: -954112863
+      spriteID: a3da7fb27c23be14cb508f2c401c098b
+      internalID: -332786515
       vertices: []
       indices: 
       edges: []
@@ -1075,8 +926,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4751d24fc684eb4daae5969cbdbd89a
-      internalID: 985449134
+      spriteID: 5465f524c2c7ade4ba08d2bda64eddf1
+      internalID: 521630096
       vertices: []
       indices: 
       edges: []
@@ -1097,23 +948,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 068bbc1913e5286489c4a8c6783117d6
-      internalID: 1094843334
+      spriteID: b354b651908d8db4ebef4457fe226082
+      internalID: -1775581777
       vertices: []
       indices: 
       edges: []
       weights: []
-=======
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
     outline: []
     customData: 
     physicsShape: []
     bones: []
-<<<<<<< HEAD
-    spriteID: 5e97eb03825dee720800000000000000
-=======
-    spriteID: 
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+    spriteID: 2dfd5d80ea34dea4a94f2acf67149b5b
     internalID: 0
     vertices: []
     indices: 
@@ -1121,58 +966,49 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-<<<<<<< HEAD
       entries:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
-=======
-      entries: []
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
     nameFileIdTable:
-      school fanty game tileset_0: 1715966838521102692
-      school fanty game tileset_1: -6795449382953405978
-      school fanty game tileset_10: -8588566521771651816
-<<<<<<< HEAD
-      school fanty game tileset_11: 64101285
-      school fanty game tileset_12: 1223933689
-      school fanty game tileset_13: 1642400983
-      school fanty game tileset_14: -2137543070
-      school fanty game tileset_15: -1368402995
-      school fanty game tileset_16: -1963414675
-      school fanty game tileset_17: 1251672651
-      school fanty game tileset_18: -1688928395
-      school fanty game tileset_19: -1533996749
-      school fanty game tileset_2: -1000922222219871871
-      school fanty game tileset_20: 1211889630
-      school fanty game tileset_21: 2075927631
-      school fanty game tileset_22: 741881280
-      school fanty game tileset_23: -1387172978
-      school fanty game tileset_24: 775375954
-      school fanty game tileset_25: -1501912720
-      school fanty game tileset_26: -1283888403
-      school fanty game tileset_27: -657265189
-      school fanty game tileset_28: -1773381208
-      school fanty game tileset_29: 670008324
-      school fanty game tileset_3: 8809788213073810547
-      school fanty game tileset_30: -380823353
-      school fanty game tileset_31: 2146446048
-      school fanty game tileset_32: -1749462453
-      school fanty game tileset_33: -360367522
-      school fanty game tileset_34: -144889924
-      school fanty game tileset_35: 827536514
-      school fanty game tileset_36: -954112863
-      school fanty game tileset_37: 985449134
-      school fanty game tileset_38: 1094843334
-=======
-      school fanty game tileset_2: -1000922222219871871
-      school fanty game tileset_3: 8809788213073810547
->>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
-      school fanty game tileset_4: 1738461620797501192
-      school fanty game tileset_5: 8474249888674500936
-      school fanty game tileset_6: 3327164414918797750
-      school fanty game tileset_7: 2928112373091131215
-      school fanty game tileset_8: -8820096372060482491
-      school fanty game tileset_9: -4320605432130972577
+      school fanty game tileset_0: 1405494923
+      school fanty game tileset_1: -1144507250
+      school fanty game tileset_10: -709980311
+      school fanty game tileset_11: 1848061911
+      school fanty game tileset_12: -974409715
+      school fanty game tileset_13: -1738593484
+      school fanty game tileset_14: -1364792812
+      school fanty game tileset_15: 278406217
+      school fanty game tileset_16: -480512541
+      school fanty game tileset_17: -57111657
+      school fanty game tileset_18: -61522221
+      school fanty game tileset_19: -1300842140
+      school fanty game tileset_2: -221007713
+      school fanty game tileset_20: -1938330921
+      school fanty game tileset_21: -1739830900
+      school fanty game tileset_22: -1993251273
+      school fanty game tileset_23: -969504716
+      school fanty game tileset_24: -198451822
+      school fanty game tileset_25: -1920205234
+      school fanty game tileset_26: -721256442
+      school fanty game tileset_27: -770236767
+      school fanty game tileset_28: -1640770214
+      school fanty game tileset_29: 553662073
+      school fanty game tileset_3: -1091938145
+      school fanty game tileset_30: -161146312
+      school fanty game tileset_31: 555042596
+      school fanty game tileset_32: -1658195009
+      school fanty game tileset_33: -673642925
+      school fanty game tileset_34: 1344068684
+      school fanty game tileset_35: -2074663549
+      school fanty game tileset_36: -332786515
+      school fanty game tileset_37: 521630096
+      school fanty game tileset_38: -1775581777
+      school fanty game tileset_4: 811607439
+      school fanty game tileset_5: 1420995595
+      school fanty game tileset_6: 956431841
+      school fanty game tileset_7: 956003078
+      school fanty game tileset_8: 125554494
+      school fanty game tileset_9: -1768529629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
