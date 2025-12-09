@@ -36,7 +36,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 100
+    spritePixelsToUnits: 16
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -72,7 +72,7 @@ ScriptedImporter:
     textureFormatSet: 0
     applyGammaDecoding: 0
   previousAsepriteImporterSettings:
-    fileImportMode: 1
+    fileImportMode: 2
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
@@ -87,7 +87,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   asepriteImporterSettings:
-    fileImportMode: 1
+    fileImportMode: 2
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
@@ -102,7 +102,7 @@ ScriptedImporter:
     generateIndividualEvents: 1
     generateSpriteAtlas: 1
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638990570896906137
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -337,18 +337,438 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 71, y: 4}
-  spriteSheetImportData: []
-  tileSetImportData: []
+  spriteSheetImportData:
+  - name: White bunny AIW_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 14
+      height: 32
+    spriteID: 35bf19156cd45d349969dd3a56662504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 84
+      width: 14
+      height: 32
+    spriteID: 06bdd8bc027acfa4ba56538b5ee143be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 84
+      width: 14
+      height: 32
+    spriteID: 8f456ec321642f8479a37f6e350b99e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 15
+      height: 32
+    spriteID: 970d3fd5583e2594bacbac6742ee806c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 44
+      width: 14
+      height: 32
+    spriteID: 3a0d7c57bba47624e91644c28618eb2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 44
+      width: 14
+      height: 32
+    spriteID: e571f87a11eee2e41841d567f72ca938
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 32
+    spriteID: 6610fa50c53435542894f12b8664da68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 14
+      height: 32
+    spriteID: 1473cf82236a553408371ff54f714e5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 14
+      height: 32
+    spriteID: 41e086044dba8dd4cb6e34c0eae65c18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: White bunny AIW_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 4
+      width: 14
+      height: 32
+    spriteID: ceeac092c133a494197726bbb11e409c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  tileSetImportData:
+  - name: Frame_0
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 14
+      height: 32
+    spriteID: 1fa1ec003a59b014ba547a9b63d8cfe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: Frame_1
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 14
+      height: 32
+    spriteID: e990e6bc6e6b5294d88de07646677fda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: Frame_2
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 44
+      width: 14
+      height: 32
+    spriteID: ceb929c88fba1b9459176595cc6039a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 44}
+  - name: Frame_3
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 84
+      width: 14
+      height: 32
+    spriteID: aeb6532d63daf3d478de8a8773fb02b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 84}
+  - name: Frame_4
+    originalName: 
+    pivot: {x: 0.6666667, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 32
+    spriteID: 716e4205aa162b24e8297fe1fc39668a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Frame_5
+    originalName: 
+    pivot: {x: 0.6666667, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 15
+      height: 32
+    spriteID: 7219263768fe2414db2d15e246ade8fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 44}
+  - name: Frame_6
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 14
+      height: 32
+    spriteID: 92156f79d3c36f743be0a6251b0e4c5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 4}
+  - name: Frame_7
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 44
+      width: 14
+      height: 32
+    spriteID: a7c580926290fd747babbb9e994d704a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 44}
+  - name: Frame_8
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 84
+      width: 14
+      height: 32
+    spriteID: fd6fb08e9d8de124eb5f0c32f573e6a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 84}
+  - name: Frame_9
+    originalName: 
+    pivot: {x: 0.71428573, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 4
+      width: 14
+      height: 32
+    spriteID: b11afc7f1df2d0149b87b184758d9d84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 4}
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 628943348
+      value0: 4287466680
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: White bunny AIW
-    layerFlags: 0
+    name: Layer 1
+    layerFlags: 3
     layerType: 0
     blendMode: 0
     cells:
@@ -360,7 +780,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: 6774efa3d65d8ec41b1b35b25f212a0f
+      spriteId: 1fa1ec003a59b014ba547a9b63d8cfe7
     - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -369,7 +789,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: cadca3be2bbd3f344be8ef3fb11cfdee
+      spriteId: e990e6bc6e6b5294d88de07646677fda
     - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -378,7 +798,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: b60537c4e1b30a8499354b42becddf0e
+      spriteId: ceb929c88fba1b9459176595cc6039a6
     - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -387,7 +807,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: 49684a3356519ae4abdee377980fffd0
+      spriteId: aeb6532d63daf3d478de8a8773fb02b0
     - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -396,7 +816,7 @@ ScriptedImporter:
         y: 0
         width: 15
         height: 32
-      spriteId: 7a698df0817b29041ad281e89d893ade
+      spriteId: 716e4205aa162b24e8297fe1fc39668a
     - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -405,7 +825,7 @@ ScriptedImporter:
         y: 0
         width: 15
         height: 32
-      spriteId: 3991c76a2383e3948bf9617e9bb8084a
+      spriteId: 7219263768fe2414db2d15e246ade8fa
     - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
@@ -414,7 +834,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: 7929017569cd85b419ee5ae1947a2cbb
+      spriteId: 92156f79d3c36f743be0a6251b0e4c5e
     - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
@@ -423,7 +843,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: 2287227957b4e184aa96e4bc08219c12
+      spriteId: a7c580926290fd747babbb9e994d704a
     - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
@@ -432,7 +852,7 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: e500e385a2bef4748b9ca5dd55eec497
+      spriteId: fd6fb08e9d8de124eb5f0c32f573e6a9
     - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
@@ -441,13 +861,37 @@ ScriptedImporter:
         y: 0
         width: 14
         height: 32
-      spriteId: 1ee505a4c96450049a5d97132e3f5ae2
+      spriteId: b11afc7f1df2d0149b87b184758d9d84
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
     parentIndex: -1
   tileSets: []
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

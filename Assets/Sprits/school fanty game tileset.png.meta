@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 589910b6b24b5324aace54e5d52f6853
+=======
+guid: 45c1b81762b9a664c9c50023aac3b73e
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1715966838521102692
+    second: school fanty game tileset_0
+  - first:
+      213: -6795449382953405978
+    second: school fanty game tileset_1
+  - first:
+      213: -1000922222219871871
+    second: school fanty game tileset_2
+  - first:
+      213: 8809788213073810547
+    second: school fanty game tileset_3
+  - first:
+      213: 1738461620797501192
+    second: school fanty game tileset_4
+  - first:
+      213: 8474249888674500936
+    second: school fanty game tileset_5
+  - first:
+      213: 3327164414918797750
+    second: school fanty game tileset_6
+  - first:
+      213: 2928112373091131215
+    second: school fanty game tileset_7
+  - first:
+      213: -8820096372060482491
+    second: school fanty game tileset_8
+  - first:
+      213: -4320605432130972577
+    second: school fanty game tileset_9
+  - first:
+      213: -8588566521771651816
+    second: school fanty game tileset_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+<<<<<<< HEAD
+    filterMode: 0
+=======
+    filterMode: 1
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+  spritePixelsToUnits: 16
+=======
+  spritePixelsToUnits: 100
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+<<<<<<< HEAD
+    textureCompression: 0
+=======
+    textureCompression: 1
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: school fanty game tileset_0
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 15
+        y: 0
+        width: 119
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46186608fb650d710800000000000000
+      internalID: 1715966838521102692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_1
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 133
+        y: 0
+        width: 124
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e13aef3ac6b1b1a0800000000000000
+      internalID: -6795449382953405978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_2
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 260
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1893ac0ca820c12f0800000000000000
+      internalID: -1000922222219871871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_3
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 295
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37410ba14b7a24a70800000000000000
+      internalID: 8809788213073810547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_4
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 320
+        y: 0
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fe84322a1402810800000000000000
+      internalID: 1738461620797501192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_5
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 380
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841565010659a9570800000000000000
+      internalID: 8474249888674500936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_6
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 465
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b92e8448667c2e20800000000000000
+      internalID: 3327164414918797750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_7
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 481
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd58480beb2a820800000000000000
+      internalID: 2928112373091131215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_8
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 503
+        y: 6
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449f9a9419b89580800000000000000
+      internalID: -8820096372060482491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_9
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 543
+        y: 0
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54d53340402a04c0800000000000000
+      internalID: -4320605432130972577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_10
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+=======
+        x: 611
+        y: 9
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d0dfba0484fc880800000000000000
+      internalID: -8588566521771651816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+<<<<<<< HEAD
+    - serializedVersion: 2
+      name: school fanty game tileset_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8ab4c9c1e434438fff643ca8b5ee5
+      internalID: 64101285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9303277c9510c9b4d8a8300d4fe30c26
+      internalID: 1223933689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753857a9abd4e84b8741b9b08ed9cb0
+      internalID: 1642400983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11719435cc725d49a7370f438a292a1
+      internalID: -2137543070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5695f83a73821348b735e3980e4a2dd
+      internalID: -1368402995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2d0f61d0a1094e96678d5631e6995
+      internalID: -1963414675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe5dc55703ff74282b8d57413da81d
+      internalID: 1251672651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6bd65ed9dc90429853c99a0eac467
+      internalID: -1688928395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca972a2193fccf4e9910c21b4099d8d
+      internalID: -1533996749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567e426fdb0455499eaefe7155baa67
+      internalID: 1211889630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d61f192f03cbe4ebd92c8aef39241a
+      internalID: 2075927631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c21766073eb9b4da2008ccea185e29
+      internalID: 741881280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0d62b19d791842a4b99c21bfb69a8
+      internalID: -1387172978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8384307cda16c48428349fc158bc5fb7
+      internalID: 775375954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc189b317a28040af9d3700f72219f
+      internalID: -1501912720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9818a29014eae4e920772d41ad6c6d
+      internalID: -1283888403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f767dd5bf6b21141aab9b0153f3aa1c
+      internalID: -657265189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097832dca1243774a8bee54a0058cbcc
+      internalID: -1773381208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3325ca53c2da4e8f418936779d7b3
+      internalID: 670008324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1097746249f84593592f77dcf06e2
+      internalID: -380823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393240aa26af2404f996f72c6d84ada3
+      internalID: 2146446048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5469a60dd2f7a439daf656a18692e6
+      internalID: -1749462453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920715f833fbbf4e81b28f4d3e51ac0
+      internalID: -360367522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad3ae6ee8fa1f64a87559aa38c16894
+      internalID: -144889924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4ec57feee4d754e96e9ef61be6b9df
+      internalID: 827536514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf2e85e3318e44d87e915b7cd61509
+      internalID: -954112863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_37
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4751d24fc684eb4daae5969cbdbd89a
+      internalID: 985449134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school fanty game tileset_38
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068bbc1913e5286489c4a8c6783117d6
+      internalID: 1094843334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+=======
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+<<<<<<< HEAD
+    spriteID: 5e97eb03825dee720800000000000000
+=======
+    spriteID: 
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+<<<<<<< HEAD
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+=======
+      entries: []
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+    nameFileIdTable:
+      school fanty game tileset_0: 1715966838521102692
+      school fanty game tileset_1: -6795449382953405978
+      school fanty game tileset_10: -8588566521771651816
+<<<<<<< HEAD
+      school fanty game tileset_11: 64101285
+      school fanty game tileset_12: 1223933689
+      school fanty game tileset_13: 1642400983
+      school fanty game tileset_14: -2137543070
+      school fanty game tileset_15: -1368402995
+      school fanty game tileset_16: -1963414675
+      school fanty game tileset_17: 1251672651
+      school fanty game tileset_18: -1688928395
+      school fanty game tileset_19: -1533996749
+      school fanty game tileset_2: -1000922222219871871
+      school fanty game tileset_20: 1211889630
+      school fanty game tileset_21: 2075927631
+      school fanty game tileset_22: 741881280
+      school fanty game tileset_23: -1387172978
+      school fanty game tileset_24: 775375954
+      school fanty game tileset_25: -1501912720
+      school fanty game tileset_26: -1283888403
+      school fanty game tileset_27: -657265189
+      school fanty game tileset_28: -1773381208
+      school fanty game tileset_29: 670008324
+      school fanty game tileset_3: 8809788213073810547
+      school fanty game tileset_30: -380823353
+      school fanty game tileset_31: 2146446048
+      school fanty game tileset_32: -1749462453
+      school fanty game tileset_33: -360367522
+      school fanty game tileset_34: -144889924
+      school fanty game tileset_35: 827536514
+      school fanty game tileset_36: -954112863
+      school fanty game tileset_37: 985449134
+      school fanty game tileset_38: 1094843334
+=======
+      school fanty game tileset_2: -1000922222219871871
+      school fanty game tileset_3: 8809788213073810547
+>>>>>>> 43705bb9bdb8319bebbdb4fc037e3f8dd9b0d4b5
+      school fanty game tileset_4: 1738461620797501192
+      school fanty game tileset_5: 8474249888674500936
+      school fanty game tileset_6: 3327164414918797750
+      school fanty game tileset_7: 2928112373091131215
+      school fanty game tileset_8: -8820096372060482491
+      school fanty game tileset_9: -4320605432130972577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
