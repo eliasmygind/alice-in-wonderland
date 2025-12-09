@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float jumpPower;
-    public float speed;
+    public float jumpPower; 
+    public float speed; 
     public Rigidbody2D rb;
     private bool isGrounded;
     public Transform groundCheck;
@@ -40,6 +41,11 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyUp(KeyCode.W) && rb.linearVelocity.y > 1)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y*0.5f);
+        }
+        if (transform.position.y < -20)
+        {
+            SceneManager.LoadScene(SceneManager.sceneCount);  
+
         }
     }
 }
