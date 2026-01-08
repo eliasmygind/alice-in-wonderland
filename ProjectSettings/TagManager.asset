@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Spike
+  - arrow shooter
+  - arrow
+  - Arrow
   layers:
   - Default
   - TransparentFX
