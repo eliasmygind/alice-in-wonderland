@@ -648,16 +648,6 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
-  - first: {x: 12, y: -3, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 7
-      m_TileSpriteIndex: 7
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      dummyAlignment: 0
-      m_AllTileFlags: 1073741825
   - first: {x: 13, y: -3, z: 0}
     second:
       serializedVersion: 2
@@ -671,8 +661,8 @@ Tilemap:
   - first: {x: 14, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 13
+      m_TileSpriteIndex: 13
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -681,8 +671,8 @@ Tilemap:
   - first: {x: 17, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 14
+      m_TileSpriteIndex: 14
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1058,9 +1048,19 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: -4, y: 3, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 13
+      m_TileSpriteIndex: 13
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
-  - m_RefCount: 38
+  - m_RefCount: 36
     m_Data: {fileID: 11400000, guid: 958bb64de63ba8f4892a89017b2f7db6, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: bfae6201ffa8f09418a16f08978eed89, type: 2}
@@ -1074,8 +1074,8 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 648df228680feb4429f1944a63081475, type: 2}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: 3c37b185d5c8d6747ba8112b13c9e9b8, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: bbce950c6e23c614dbee97b712ccf5c1, type: 2}
   - m_RefCount: 3
@@ -1086,8 +1086,12 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 7e1bd8b014ff5cc4297ab231e8461639, type: 2}
   - m_RefCount: 6
     m_Data: {fileID: 11400000, guid: ed202353e94c77f41b86ecdd02205eba, type: 2}
+  - m_RefCount: 2
+    m_Data: {fileID: 11400000, guid: 94cdd78b83da93346b5d96d6216f0ff3, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 817a8cbac93effa4fbb9827895d258e9, type: 2}
   m_TileSpriteArray:
-  - m_RefCount: 38
+  - m_RefCount: 36
     m_Data: {fileID: 811607439, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: -1739830900, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
@@ -1101,8 +1105,8 @@ Tilemap:
     m_Data: {fileID: 956431841, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 1420995595, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -1920205234, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 278406217, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
   - m_RefCount: 3
@@ -1113,6 +1117,10 @@ Tilemap:
     m_Data: {fileID: -673642925, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
   - m_RefCount: 6
     m_Data: {fileID: -969504716, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
+  - m_RefCount: 2
+    m_Data: {fileID: -1364792812, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 125554494, guid: 589910b6b24b5324aace54e5d52f6853, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 65
     m_Data:
@@ -1139,7 +1147,7 @@ Tilemap:
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -4, y: -11, z: 0}
-  m_Size: {x: 38, y: 14, z: 1}
+  m_Size: {x: 38, y: 15, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:

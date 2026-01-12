@@ -47,9 +47,6 @@ public class PlayerMovement : MonoBehaviour
             SceneManager.LoadScene(SceneManager.sceneCount);
 
         }
-        if (Input.GetKey(KeyCode.R))
-        {
-            SceneManager.LoadScene(SceneManager.sceneCount);
-        }
+       
     }
 }
