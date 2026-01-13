@@ -8,6 +8,7 @@ TagManager:
   - arrow shooter
   - arrow
   - Arrow
+  - Ground
   layers:
   - Default
   - TransparentFX
