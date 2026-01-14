@@ -529,6 +529,7 @@ GameObject:
   - component: {fileID: 392838639}
   - component: {fileID: 392838638}
   - component: {fileID: 392838637}
+  - component: {fileID: 392838641}
   m_Layer: 6
   m_Name: shooter
   m_TagString: arrow shooter
@@ -671,6 +672,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &392838641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 392838636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc637a5c16bd3c4986d2a8dc5e1ebed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::health
+  maxHealth: 3
+  currentHealth: 0
 --- !u!1 &629897131
 GameObject:
   m_ObjectHideFlags: 0
@@ -1858,6 +1873,7 @@ MonoBehaviour:
   playerArrow: {fileID: 662433924355548534, guid: 1efe33a4307890c4ab3342917387d854, type: 3}
   playerArrowSpeed: 10
   arrowCooldown: 0.5
+  dashSpeed: 10
 --- !u!61 &661388158
 BoxCollider2D:
   m_ObjectHideFlags: 0
