@@ -17,7 +17,12 @@ public class PlayerArrow : MonoBehaviour
             Destroy(gameObject);
         }
 
+        if (other.CompareTag("arrow shooter"))
+        {
+            Destroy(other.gameObject);
+            Destroy(gameObject);
+        }
 
-        
+
     }
 }

@@ -9,6 +9,7 @@ TagManager:
   - arrow
   - Arrow
   - Ground
+  - PlayerArrow
   layers:
   - Default
   - TransparentFX
