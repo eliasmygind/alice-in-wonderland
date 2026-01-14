@@ -1,4 +1,5 @@
 using System;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -10,6 +11,7 @@ public class Enemy : MonoBehaviour
     Rigidbody2D rb;
     public Boolean right = false;
     public Boolean left = false;
+    public int hitPoint;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -46,6 +48,20 @@ public class Enemy : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         }
-       
+        if (hitPoint <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Spike")
+        {
+            hitPoint = 0;
+        }
+    }
+
+
 }
