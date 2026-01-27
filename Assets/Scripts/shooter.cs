@@ -6,7 +6,6 @@ public class ArrowShooter : MonoBehaviour
     public GameObject arrowPrefab;
     public float arrowSpeed = -10f;
     public float shootDelay = 2f;
-    public float HP = 5f;
    
     
     void Start()

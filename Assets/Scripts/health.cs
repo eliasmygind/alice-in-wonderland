@@ -10,6 +10,7 @@ public class health : MonoBehaviour
     {
         currentHealth = maxHealth;
     }
+   
 
     void TakeDamage(int amount)
     {
@@ -19,7 +20,8 @@ public class health : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
-
+        
     }
+    
 
 }
