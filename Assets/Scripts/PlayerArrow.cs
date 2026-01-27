@@ -11,6 +11,7 @@ public class PlayerArrow : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other)
     {
+        
 
         if (other.CompareTag("Ground"))
         {
@@ -19,7 +20,8 @@ public class PlayerArrow : MonoBehaviour
 
         if (other.CompareTag("arrow shooter"))
         {
-           Destroy(other.gameObject);
+           health hp = other.gameObject.GetComponent<health>();
+           hp.TakeDamage(1);
            Destroy(gameObject);
         }
       

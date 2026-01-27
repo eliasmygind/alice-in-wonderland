@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class health : MonoBehaviour
 {
-    public int maxHealth = 3;
+    public int maxHealth = 5;
     public int currentHealth;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -12,13 +12,13 @@ public class health : MonoBehaviour
     }
    
 
-    void TakeDamage(int amount)
+    public void TakeDamage(int amount)
     {
         currentHealth -= amount;
 
         if (currentHealth <= 0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            Destroy(gameObject);
         }
         
     }
