@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour
     public float playerArrowSpeed = 10f;
     public float arrowCooldown = 0.5f;
     private float nextFireTime;
-   
+    public float dashSpeed = 10f;
 
     private bool isFacingRight = true;
 
@@ -65,6 +65,8 @@ public class PlayerMovement : MonoBehaviour
             ShootArrow();
             nextFireTime = Time.time + arrowCooldown;
         }
+       
+      
     }
 
     void ShootArrow()
