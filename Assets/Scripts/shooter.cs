@@ -7,6 +7,7 @@ public class ArrowShooter : MonoBehaviour
     public float arrowSpeed = -10f;
     public float shootDelay = 2f;
    
+   
     
     void Start()
     {
