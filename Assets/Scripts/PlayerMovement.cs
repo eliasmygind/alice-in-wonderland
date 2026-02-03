@@ -20,50 +20,59 @@ public class PlayerMovement : MonoBehaviour
 
     private bool isFacingRight = true;
 
+    public GameObject deathScreen;
+
     void Update()
     {
         // Ground check
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.3f, whatIsGround);
+        if (!deathScreen.active)
+        {
+            // Movement
+            if (Input.GetKey(KeyCode.A))
+            {
+                rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
+                isFacingRight = false;
+            }
+            else if (Input.GetKey(KeyCode.D))
+            {
+                rb.linearVelocity = new Vector2(speed, rb.linearVelocity.y);
+                isFacingRight = true;
+            }
+            else
+            {
+                rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            }
 
-        // Movement
-        if (Input.GetKey(KeyCode.A))
-        {
-            rb.linearVelocity = new Vector2(-speed, rb.linearVelocity.y);
-            isFacingRight = false;
-        }
-        else if (Input.GetKey(KeyCode.D))
-        {
-            rb.linearVelocity = new Vector2(speed, rb.linearVelocity.y);
-            isFacingRight = true;
+            // Jump
+            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            }
+
+            // Short hop
+            if (Input.GetKeyUp(KeyCode.W) && rb.linearVelocity.y > 0)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            }
+            // Shoot
+            if (Input.GetKeyDown(KeyCode.Space) && Time.time >= nextFireTime)
+            {
+                ShootArrow();
+                nextFireTime = Time.time + arrowCooldown;
+            }
         }
         else
         {
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         }
 
-        // Jump
-        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
-        }
 
-        // Short hop
-        if (Input.GetKeyUp(KeyCode.W) && rb.linearVelocity.y > 0)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
-        }
 
         // Fall reset
         if (transform.position.y < -15f)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
-
-        // Shoot
-        if (Input.GetKeyDown(KeyCode.Space) && Time.time >= nextFireTime)
-        {
-            ShootArrow();
-            nextFireTime = Time.time + arrowCooldown;
+            deathScreen.SetActive(true);
         }
        
       
@@ -86,9 +95,9 @@ public class PlayerMovement : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy"))
+        if (other.CompareTag("Enemy") || other.CompareTag("Spike") || other.CompareTag("Arrow"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            deathScreen.SetActive(true);
         }
     }
 }
